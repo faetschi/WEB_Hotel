@@ -2,6 +2,8 @@
 Hotel Website (Room Booking, User Management, ...)
 (HTML; CSS; PHP)
 
+---
+
 For Local Database initialization:
 1. Start Local Apache Server
 2. Change database info in "data/dbaccess.php" ($user, $password)
